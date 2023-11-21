@@ -1,2 +1,2 @@
 # miniProject
-spring MVC 방명록
+MVC 방명록
